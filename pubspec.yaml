@@ -4,12 +4,12 @@ version: 0.3.1
 author: Stefano Rodriguez <hlsroddy@gmail.com>
 homepage: https://github.com/sroddy/flutter_string_encryption
 
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+
 dependencies:
   flutter:
     sdk: flutter
-
-environment:
-  sdk: '>=1.24.0 <3.0.0'
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
